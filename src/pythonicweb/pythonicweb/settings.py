@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y5l6tu8fn5up))29tm5en^vnjhjc*37g81p__z6o+lpn=b^h%$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.dev.pythonic.kr']
 
 
 # Application definition
