@@ -1,0 +1,3 @@
+django
+zappa
+social-auth-app-django
