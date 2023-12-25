@@ -162,3 +162,5 @@ cython_debug/
 
 # temporary password
 SECRET.md
+# zappa setting
+zappa_settings.json
