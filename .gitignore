@@ -165,3 +165,6 @@ SECRET.md
 secret_*.py
 # zappa setting
 zappa_settings.json
+
+# local python version
+.python-version
